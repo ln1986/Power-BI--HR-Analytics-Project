@@ -2,7 +2,7 @@
 
 **Problem statement**
 
-X company which was established few years back is facing around 20% attrition rate for the couple of years. And it's majorly affecting the company in many aspects. In order to understand why employees are leaving the company and reduce the attrition rate, XYZ company has approached HR analytics consultancy for analyzing the data they have.
+X company which was established few years back is facing around 20% attrition rate for the couple of years. And it's majorly affecting the company in many aspects. In order to understand why employees are leaving the company and reduce the attrition rate, X company has approached HR analytics consultancy for analyzing the data they have.
 
 I worked in this project as the HR analyst role and built a dashboard which can help the organization to take the data driven decision.
 
